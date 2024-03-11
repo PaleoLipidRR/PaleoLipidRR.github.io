@@ -8,8 +8,8 @@ subtitle:  Gould-Simpson Building, Room 513A <br>
 
 profile:
   align: right
-  image: graduation_profile_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 news: true # includes a list of news items
