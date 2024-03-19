@@ -7,8 +7,8 @@ subtitle:  Gould-Simpson Building, Room 513A <br>
     1040 E. 4th St., Tucson, AZ 85721 U.S.A
 
 profile:
-  align: right
-  image: profile_pic.jpg
+  align: block
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
