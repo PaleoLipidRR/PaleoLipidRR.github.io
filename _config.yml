@@ -76,7 +76,7 @@ telegram_username: # your Telegram user name
 scholar_userid: AGcBWlAAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-1425-8737 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -226,7 +226,7 @@ exclude:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/profiles.md
-  - _pages/cv.md
+  # - _pages/cv.md
   - purgecss.config.js
   - README.md
   - readme_preview/
